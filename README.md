@@ -28,14 +28,15 @@ The script evaluates the following lightweight conversational models:
 - `microsoft/DialoGPT-small` (DialoGPT Small by Microsoft)
 
 ## Output
-- `topsis_results.csv`: Contains model rankings and scores.
-- `topsis_results_graph.png`: A bar chart visualizing the TOPSIS rankings.
+![image](https://github.com/user-attachments/assets/7e15ab06-e376-49a8-84b4-f4c4ae832650)
 
-## Tables and Charts
-All generated tables and charts can be found in the `results/` directory:
-- `results/topsis_results.csv`: A CSV file containing detailed rankings.
-- `results/topsis_results_graph.png`: A bar chart representing the model rankings.
-- Additional statistical outputs may be stored in this directory for further analysis.
+
+## Visualisation
+![image](https://github.com/user-attachments/assets/9cabf60a-7052-4719-a14f-c62397c5d368)
+![image](https://github.com/user-attachments/assets/f2844b39-854b-4ede-91bd-f77574bc40bb)
+![image](https://github.com/user-attachments/assets/8f276e90-7adf-4a85-a582-ab156889dbc9)
+![image](https://github.com/user-attachments/assets/977f9e14-5c4b-4dce-a587-c919d667a3cd)
+
 
 ## License
 This project is open-source under the MIT License.
